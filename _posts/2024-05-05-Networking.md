@@ -1,7 +1,7 @@
 ---
 title: Networking
 date: 2024-05-05 12:00:00 -500
-categories: [project,study]
+categories: [project,solo,study]
 tags: [networking,cpp,buas]     # TAG names should always be lowercase
 ---
 
