@@ -1,0 +1,10 @@
+---
+title: Unity Android Bluetooth plugin
+date: 2024-07-07 12:00:00 -500
+categories: [project,solo]
+tags: [unity,csharp,javascript,blueprint]     # TAG names should always be lowercase
+---
+
+# Unity Android Bluetooth plugin
+
+I created a Android Bluetooth plugin for Unity. With this plugin, you can see what Android Bluetooth devices are in your area, pair with them and create a peer-to-peer connection with one of the devices act as a server.

@@ -2,7 +2,7 @@
 title: Voxel Engine
 date: 2024-07-07 12:00:00 -500
 categories: [project,solo]
-tags: [networking,cpp]     # TAG names should always be lowercase
+tags: [engine,cpp]     # TAG names should always be lowercase
 ---
 
 # Voxel Engine

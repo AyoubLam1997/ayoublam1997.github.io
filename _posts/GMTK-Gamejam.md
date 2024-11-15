@@ -15,3 +15,5 @@ I worked on the following:
 - Projectile collision detection
 - Enviromental art
 - Prop art
+
+Feel free to play our game on this link: https://zoranster.itch.io/souls-reflection
