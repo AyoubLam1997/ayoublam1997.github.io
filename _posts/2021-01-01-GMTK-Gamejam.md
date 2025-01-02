@@ -7,13 +7,13 @@ tags: [csharp,unity]     # TAG names should always be lowercase
 
 # GMTK ’21 Jam: Souls Reflection
 
-<img src="../assets/images/GameJam/GMT21/joinedthumbnail.png" width="500"/>
+<img src="../assets/images/GameJam/GMT21/joinedthumbnail.png" width="500" alt="hello!"/>
 
 I joined the Game Maker ToolKit 2021 gamejam with a group of friends and created a game within 2 days! The game we created is Souls Reflection.
 
 Souls Reflection is a 2D Action Puzzle game about working together with your friend to solve puzzles, battle through monsters and to find a way out! 
 
-<img src="../assets/images/GameJam/GMT21/gmtk21-2.webp" width="500"/>
+<img src="../assets/images/GameJam/GMT21/gmtk21-2.webp" width="500" alt="hello!"/>
 
 You control 2 player characters at the same time, where one is a ghost that can move through walls. You can switch which character is the ghost. Both characters also have a unique attack, where one has a melee attack & the other shoots projectiles, but be careful where you're attacking! You can hit damage your friend instead of the enemies trying to stop you!
 

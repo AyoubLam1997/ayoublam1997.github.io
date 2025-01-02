@@ -227,7 +227,7 @@ void UpdateClient()
 }
 ```
 
-<img src="../assets/images/Networking/FirstNetwork/serverclient_test-1.webp" width="500"/>
+<img src="../assets/images/Networking/FirstNetwork/serverclient_test-1.webp" width="500" alt="hello!"/>
 
 Great! Now the server send data back client. However, it only sends it to one client. If multiple clients would connect to the server & send a message, the message would only be send to the one that send the message, not to all connected client. Since UDP is connectionless, I need to implement a way for the server to know what clients are connected to the server.
 
@@ -437,7 +437,7 @@ void UpdateServer()
 
 Now, whenever a client is sending a message to the server, the server sends the message to all the connected clients! With the basics, I can continue & expand this project by creating more features.
 
-<img src="../assets/images/Networking/FirstNetwork/serverclient_chat.gif" width="500"/>
+<img src="../assets/images/Networking/FirstNetwork/serverclient_chat.gif" width="500" alt="hello!"/>
 
 # Outputstream
 
@@ -791,10 +791,10 @@ void NetworkServerManager::InitServer(char* ip, uint16_t port)
 
 With all of this setup, this makes it easier to create extra features. For example, a lobby where players can move around.
 
-<img src="../assets/images/Networking/FirstNetwork/serverclient_lobbyjoin.webp" width="500"/>
+<img src="../assets/images/Networking/FirstNetwork/serverclient_lobbyjoin.webp" width="500" alt="hello!"/>
 
 Or even a (mini)game such as pong!
 
-<img src="../assets/images/Networking/FirstNetwork/pongexample.gif" width="500"/>
+<img src="../assets/images/Networking/FirstNetwork/pongexample.gif" width="500" alt="hello!"/>
 
 Network programming is… not easy, but I’ve most definitely enjoyed it. In the future I’m going to expand my knowledge with networking, researching concepts such as rollback netcode, input prediction & anti-cheat such as input-validation.
