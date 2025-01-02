@@ -635,13 +635,11 @@ enum SocketAddressFamily
 	INET6 = AF_INET6
 };
 
-
-
 bool SocketUtil::StaticInit()
 {
 	WSADATA data;
-
-        // Initialize winsock
+    
+    // Initialize winsock
 	int result = WSAStartup(MAKEWORD(2, 2), &data);
 
 	if (result != NO_ERROR)
