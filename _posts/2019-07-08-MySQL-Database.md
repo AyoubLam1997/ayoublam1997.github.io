@@ -15,7 +15,7 @@ The system makes use of a Token-based authentication where when a player is logg
 
 First, if the player has an account, the player attempts to login in the game. After the player has put in their credentials, the game tries to check if the credentials are correct & if so, let's the player is then logged in.
 
-```C#
+```cs
 [System.Serializable]
 public class LoginResponse
 {

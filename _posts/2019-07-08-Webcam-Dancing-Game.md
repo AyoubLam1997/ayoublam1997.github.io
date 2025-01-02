@@ -15,7 +15,7 @@ Each frame, the game gets all the pixels the webcam is rendering& checks for any
 
 To check if the player is dancing and/or moving enough to increase their score, the game checks if any motion was detection was detected in front of the camera. If there is, the player's score increases. Below is a code snippet that checks if is (sufficient) motion detection detected.
 
-```C#
+```cs
 // Checks for any form of motion in front of the webcam
 private void MotionDetection()
 {
