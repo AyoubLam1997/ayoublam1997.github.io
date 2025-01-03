@@ -1,5 +1,5 @@
 ---
-title: GMTK ’21 Jam: Souls Reflection
+title: GMTK ’21 Jam':' Souls Reflection
 date: 2024-07-07 12:00:00 -500
 categories: [project,gamejam,team]
 tags: [csharp,unity]     # TAG names should always be lowercase
