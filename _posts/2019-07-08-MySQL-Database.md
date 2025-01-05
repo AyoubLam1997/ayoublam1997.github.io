@@ -1,6 +1,6 @@
 ---
 title: MySQL Database
-date: 2024-07-07 12:00:00 -500
+date: 2019-07-08 12:00:00 -500
 categories: [project,study,solo]
 tags: [mysql, csharp, php, unity]     # TAG names should always be lowercase
 ---
