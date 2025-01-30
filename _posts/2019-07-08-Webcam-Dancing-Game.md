@@ -7,7 +7,9 @@ tags: [unity,csharp]     # TAG names should always be lowercase
 
 # Webcam Dancing Game
 
+<p align="center">
 <img src="../assets/images/WebcamGame/dancinggif.gif" width="500" alt="hello!"/>
+</p>
 
 For a project at GLU (Grafisch Lyceum Utrecht), I've created a dancing game where the player dances in front of a camera.
 

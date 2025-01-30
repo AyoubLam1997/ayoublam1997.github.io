@@ -30,7 +30,7 @@ SHOW CODE & EXAMPLES OF THE RESPONDER
 
 # State machine
 
-Each state has their own contained logic, preventing it frominfluencing either the system or other states.
+Each state has their own contained logic, preventing it from influencing either the system or other states.
 
 Each state is derived from BaseState
 
