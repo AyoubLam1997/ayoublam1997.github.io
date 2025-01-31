@@ -1,5 +1,5 @@
 ---
-title: Networking
+title: Multiplayer networking; Sending/receiving data & API design
 date: 2024-05-05 12:00:00 -500
 categories: [project,solo,study]
 tags: [networking,cpp,buas]     # TAG names should always be lowercase

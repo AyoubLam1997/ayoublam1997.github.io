@@ -29,10 +29,6 @@ As of now, I'm currently searching for an internship that grants me the opportun
  <H3>Skills</H3>
 </div>
 
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 35%">
-
 | Soft skills | Hard skills |
 | :----------------: | :----------------: |
 | Communication | C++ |
@@ -45,14 +41,3 @@ As of now, I'm currently searching for an internship that grants me the opportun
 |  | Perforce |
 |  | Jira |
 |  | Codecks |
-
-</div>
-
-<div align="center">
-
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
-
-</div>
