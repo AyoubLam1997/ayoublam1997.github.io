@@ -26,7 +26,7 @@ I've worked on various project, from game-jams with some of my friends to solo p
 As of now, I'm currently searching for an internship that grants me the opportunity to grant me first-hand experience to create games for people all-around the world!
 
 <div align="center">
- <H3>Skills</H1>
+ <H3>Skills</H3>
 </div>
 
 <center>
