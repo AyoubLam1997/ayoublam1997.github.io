@@ -29,7 +29,7 @@ As of now, I'm currently searching for an internship that grants me the opportun
  <H3>Skills</H3>
 </div>
 
-<center>
+<div align="center">
 
 | Soft skills | Hard skills |
 | :--------: | :-------: |
@@ -44,4 +44,4 @@ As of now, I'm currently searching for an internship that grants me the opportun
 |  | Jira |
 |  | Codecks |
 
-</center>
+</div>

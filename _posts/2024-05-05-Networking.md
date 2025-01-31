@@ -786,6 +786,6 @@ With all of this setup, this makes it easier to create extra features. For examp
 
 Or even a (mini)game such as pong!
 
-<img src="../assets/images/Networking/FirstNetwork/pongexample.gif" width="500" alt="A game of Pong!"/>
+<img src="../assets/images/Networking/FirstNetwork/pongexample.gif" alt="A game of Pong!"/>
 
 Network programming is… not easy, but I’ve most definitely enjoyed it. In the future I’m going to expand my knowledge with networking, researching concepts such as rollback netcode, input prediction & anti-cheat such as input-validation.
