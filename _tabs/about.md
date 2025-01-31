@@ -29,12 +29,10 @@ As of now, I'm currently searching for an internship that grants me the opportun
  <H3>Skills</H3>
 </div>
 
-<div align="center">
-
 | Soft skills | Hard skills |
 | :--------: | :-------: |
 | Communication | C++ |
-|Teamwork | C# |
+| Teamwork | C# |
 | Leadership | Unreal Engine |
 | Critical Thinking | Unity |
 | Empathy | Dutch |
@@ -44,4 +42,3 @@ As of now, I'm currently searching for an internship that grants me the opportun
 |  | Jira |
 |  | Codecks |
 
-</div>

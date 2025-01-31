@@ -5,7 +5,7 @@ categories: [project,solo,school]
 tags: [audio]     # TAG names should always be lowercase
 ---
 
-# Game audio: Noob Saibot recreation
+# Game Audio: Noob Saibot Recreation
 
 
 <p align="center">
