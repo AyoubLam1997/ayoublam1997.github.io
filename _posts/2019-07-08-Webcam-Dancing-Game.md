@@ -13,7 +13,7 @@ tags: [unity,csharp]     # TAG names should always be lowercase
 
 For a project at GLU (Grafisch Lyceum Utrecht), I've created a dancing game where the player dances in front of a camera.
 
-Each frame, the game gets all the pixels the webcam is rendering& checks for any differences compared with the previous frame. If there are any differences between frames, they are represented by the color white, otherwise they're black.
+Each frame, the game gets all the pixels the webcam is rendering & checks for any differences compared with the previous frame. If there are any differences between frames, they are represented by the color white, otherwise they're black.
 
 To check if the player is dancing and/or moving enough to increase their score, the game checks if any motion was detection was detected in front of the camera. If there is, the player's score increases. Below is a code snippet that checks if is (sufficient) motion detection detected.
 
