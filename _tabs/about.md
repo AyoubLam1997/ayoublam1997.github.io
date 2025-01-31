@@ -29,10 +29,12 @@ As of now, I'm currently searching for an internship that grants me the opportun
  <H3>Skills</H3>
 </div>
 
-<table align="center">
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 35%">
 
 | Soft skills | Hard skills |
-| :--------: | :-------: |
+| :----------------: | :----------------: |
 | Communication | C++ |
 | Teamwork | C# |
 | Leadership | Unreal Engine |
@@ -44,4 +46,13 @@ As of now, I'm currently searching for an internship that grants me the opportun
 |  | Jira |
 |  | Codecks |
 
-</table>
+</div>
+
+<div align="center">
+
+| Item         | Price | # In stock |
+|--------------|:-----:|-----------:|
+| Juicy Apples |  1.99 |        739 |
+| Bananas      |  1.89 |          6 |
+
+</div>
