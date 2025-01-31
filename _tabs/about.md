@@ -29,19 +29,19 @@ As of now, I'm currently searching for an internship that grants me the opportun
  <H3>Skills</H1>
 </div>
 
-<div align="center">
+<center>
 
-| <div style="width:200px"><div align="center">Soft skills</div> | <div style="width:200px"><div align="center">Hard skills</div> |
-| -------- | ------- |
-| <div align="center">Communication</div> | <div align="center">C++</div> |
-| <div align="center">Teamwork | <div align="center">C#</div> |
-| <div align="center">Leadership | <div align="center">Unreal Engine</div> |
-| <div align="center">Critical Thinking | <div align="center">Unity</div> |
-| <div align="center">Empathy | <div align="center">Dutch</div> |
-| <div align="center">Adaptability | <div align="center">English</div> |
-|  | <div align="center">Git</div> |
-|  | <div align="center">Perforce</div> |
-|  | <div align="center">Jira</div> |
-|  | <div align="center">Codecks</div> |
+| Soft skills | Hard skills |
+| :--------: | :-------: |
+| Communication | C++ |
+|Teamwork | C# |
+| Leadership | Unreal Engine |
+| Critical Thinking | Unity |
+| Empathy | Dutch |
+| Adaptability | English |
+|  | Git |
+|  | Perforce |
+|  | Jira |
+|  | Codecks |
 
-</div>
+</center>
