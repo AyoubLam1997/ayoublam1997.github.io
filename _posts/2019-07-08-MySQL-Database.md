@@ -7,11 +7,15 @@ tags: [mysql, csharp, php, unity]     # TAG names should always be lowercase
 
 # MySQL Database
 
-For a project when I was at Grafisch Lyceum Utrecht, I created a MySQL database. A user can register an account that holds the user's email, password & data depending on the game. In this case, in this space shooter, the user can upgrade their ship. The upgrade increases the ship's damage, health & speed.
+<p align="center">
+<img src="../assets/images/MySQLProject/LoginExample.gif" width="500" alt="Logging in on my SQL server!"/>
+</p>
+
+For a project when I was at Grafisch Lyceum Utrecht, I created a MySQL database. A user can register an account that holds the user's email, password & data depending on the game. In this case, in this space shooter, the user can upgrade their ship. The upgrade increases the ship's damage, health & speed. This game was made in Unity.
 
 I run the server on EasyPHP Devserver 17.0 & handle MySQL on phpMyAdmin.
 
-The system makes use of a Token-based authentication where when a player is logging in, they get a randomly generated access token. Whilst the token is active, the user can navigate through the game & get access to their data such as the ship health & damage.
+The system makes use of a Token-based authentication where when a player is logging in, they get a randomly generated access token. Whilst the token is active, the user can navigate through the game & get access to their data such as (in this case) the ship health & damage.
 
 First, if the player has an account, the player attempts to login in the game. After the player has put in their credentials, the game tries to check if the credentials are correct & if so, let's the player is then logged in.
 

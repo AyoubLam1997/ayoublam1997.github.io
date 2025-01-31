@@ -7,6 +7,10 @@ order: 4
  <H1>ABOUT ME</H1>
 </div>
 
+<div align="center">
+ <H3>All I want to do is to create awesome games</H3>
+</div>
+
 <p align="center">
 <img src="../assets/images/FullPicOfMe.png" width="700" alt="Hey, that's me participating in the RedBull Strijders tournament!"/>
 </p>
@@ -17,26 +21,27 @@ I have been a fan of games since I my childhood. From playing Spyro 3 on the ori
 
 I've been programming for over 7 years. My main programming languages are C++ & C. I'm experienced with Unreal Engine, Unity & have worked on custom engines. I'm specialised in gameplay & tools programming.
 
-I've worked on various project, from game-jams with some of my friends to solo projects, such as experimenting with creating my own tweening library or developing my own fighting game! Currently, I'm working on a group project as the programming lead on the game **Katharsi**.
+I've worked on various project, from game-jams with some of my friends to solo projects to experimenting with creating my own tweening library or developing my own fighting game! Currently, I'm working on a group project as the programming lead on the game **Katharsi**.
 
 As of now, I'm currently searching for an internship that grants me the opportunity to grant me first-hand experience to create games for people all-around the world!
 
 <div align="center">
  <H3>Skills</H1>
 </div>
+
 <div align="center">
 
-| <div style="width:200px">Soft skills</div> | <div style="width:200px">Hard skills</div> |
+| <div style="width:200px"><div align="center">Soft skills</div> | <div style="width:200px"><div align="center">Hard skills</div> |
 | -------- | ------- |
-| Communication | C++ |
-| Teamwork | C# |
-| Leadership | Unreal Engine |
-| Critical Thinking | Unity |
-| Empathy | Dutch |
-| Adaptability | English |
-|  | Git |
-|  | Perforce |
-|  | Jira |
-|  | Codecks |
+| <div align="center">Communication</div> | <div align="center">C++</div> |
+| <div align="center">Teamwork | <div align="center">C#</div> |
+| <div align="center">Leadership | <div align="center">Unreal Engine</div> |
+| <div align="center">Critical Thinking | <div align="center">Unity</div> |
+| <div align="center">Empathy | <div align="center">Dutch</div> |
+| <div align="center">Adaptability | <div align="center">English</div> |
+|  | <div align="center">Git</div> |
+|  | <div align="center">Perforce</div> |
+|  | <div align="center">Jira</div> |
+|  | <div align="center">Codecks</div> |
 
 </div>
