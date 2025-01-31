@@ -221,9 +221,7 @@ void UpdateClient()
         }
 
         cout << packet << endl;
-
     }
-
 }
 ```
 
@@ -340,13 +338,9 @@ void UpdateClient()
                 memcpy(receiveMessage, receivePacket + 2, 1024);
 
                 cout << receiveMessage << endl;
-
             }
-
         }
-
     }
-
 }
 ```
 
@@ -498,12 +492,10 @@ Using this class, all I have to do is just call the Read method, add the data I 
 ```cpp
 void UpdateServer()
 {
-    int socketSize = sizeof(sockaddr_in);
-
-    char receiveBuff[2048];
-
-    int size = sizeof(receiveBuff);
-
+    char receiveBuff[2048];
+    
+    int socketSize = sizeof(sockaddr_in);
+    int size = sizeof(receiveBuff);
     int byteSize = recvfrom(udpSock, receiveBuff, size, 0, (sockaddr*)&client, &socketSize);
 
     if (byteSize > 0)
@@ -715,8 +707,8 @@ UDPSocket::~UDPSocket()
 int UDPSocket::Bind(const SocketAddress& address)
 {
 	int error = bind(m_Socket, &address.m_SocketAddress, address.GetSize());
-
-        // Report an error when binding the socket fails
+    
+    // Report an error when binding the socket fails
 	if (error != 0)
 	{
 		SocketUtil::ReportError("TCPSocket::Bind");
@@ -759,17 +751,14 @@ To showcase an example, the code snippet below showcases an example where an soc
 ```cpp
 void NetworkServerManager::InitServer(char* ip, uint16_t port)
 {
-
-       if (!SocketUtil::StaticInit())
-
-        {
-
-              cout << "Error initializing socket utilility" << endl;
-        }
-
-        else
-
-              cout << "WSA initialized" << endl;
+    if (!SocketUtil::StaticInit())
+    {
+        cout << "Error initializing socket utilility" << endl;
+    }
+    else
+    {
+        cout << "WSA initialized" << endl;
+    }
 
 
 	// Create & open a UDP socket
@@ -785,7 +774,9 @@ void NetworkServerManager::InitServer(char* ip, uint16_t port)
 	m_ServerSocket->Bind(address);
 
 	if (m_ServerSocket == nullptr)
+    {
 		cout << "No socket" << endl;
+    }
 }
 ```
 
