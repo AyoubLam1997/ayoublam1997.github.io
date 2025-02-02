@@ -11,4 +11,4 @@ During my internship at the dutch military, I created a Android Bluetooth plugin
 
 Below is a video demonstrating a chat system between 2 android phones, where one is hosting the connection.
 
-[![Webcam dancing game](https://img.youtube.com/vi/VWQ-_WkKROQ/0.jpg)](https://www.youtube.com/watch?v=VWQ-_WkKROQ "Webcam dancing game")
+[![Unity Android Bluetooth Plugin](https://img.youtube.com/vi/VWQ-_WkKROQ/0.jpg)](https://www.youtube.com/watch?v=VWQ-_WkKROQ "Unity Android Bluetooth")

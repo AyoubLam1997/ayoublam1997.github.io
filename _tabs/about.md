@@ -27,7 +27,7 @@ As of now, I'm currently searching for an internship that grants me the opportun
 
 <div align="center">
  <H3>Skills</H3>
-</div>
+ 
 
 | Soft skills | Hard skills |
 | :----------------: | :----------------: |
@@ -41,3 +41,13 @@ As of now, I'm currently searching for an internship that grants me the opportun
 |  | Perforce |
 |  | Jira |
 |  | Codecks |
+
+</div>
+
+<div align="center">
+<H3>Fun facts about me:</H3>
+</div>
+
+- My favourite games are Yakuza 0, Bloodborne & Yakuza: Like A Dragon.
+- I was named "King of The Saltmine" because I won a Street Fighter V king-of-the-hill type tournament, which was hosted by the Saltmine League.
+- I used to perform in theater plays as an actor, in which I originally planned to become an actor.
