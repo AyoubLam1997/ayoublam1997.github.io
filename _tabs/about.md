@@ -49,5 +49,7 @@ If you want see my work experience, feel free to check my CV on this <a href="/a
 </div>
 
 - My favourite games are Yakuza 0, Bloodborne & Yakuza: Like A Dragon.
+- My favourite game genre is Fighting games, such as Street Fighter, Mortal Kombat, DragonBall FighterZ, & Tekken.
 - I was named "King of The Saltmine" because I won a Street Fighter V king-of-the-hill type tournament, which was hosted by the Saltmine League.
-- I used to perform in theater plays as an actor.
+- I used to perform in theater plays as an actor. I originally planned to become a movie star, but due to unforseen circumstances, I decided to make a career shift (but maybe I'll revisit it in the future...)
+- I paint Warhammer miniatures & play various Warhammer miniature games. Though I consider myself more of a (casual) player than a painter, I have a chronic addiction to kitbashing (I mostly play 40K with my main army being the Astra Militarum).
