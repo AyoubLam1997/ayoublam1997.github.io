@@ -5,9 +5,6 @@ categories: [project,solo,school]
 tags: [audio]     # TAG names should always be lowercase
 ---
 
-# Game Audio: Noob Saibot Recreation
-
-
 <p align="center">
 <img src="../assets/images/Audio/NoobSaibot/noob_saibot_mk11.webp" width="500" alt="hello!"/>
 </p>

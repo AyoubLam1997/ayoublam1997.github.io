@@ -5,8 +5,6 @@ categories: [project,solo,study]
 tags: [networking,cpp,buas]     # TAG names should always be lowercase
 ---
 
-# Multiplayer networking: Sending/receiving data & API design
-
 For a while, I’ve had an interest with multiplayer networking. Since that a big chunk of triple A games are online multiplayer games, it is in my that game developers should at least have an understanding how multiplayer games work.
 
 For my school project, I decided to create a multiplayer game where players send messages to each other, move around in a lobby & players can play various minigames, all to learn how to create a multiplayer environment.

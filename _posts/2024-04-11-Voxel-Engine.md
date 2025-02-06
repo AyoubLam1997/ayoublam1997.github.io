@@ -5,8 +5,6 @@ categories: [project,solo]
 tags: [engine,cpp]     # TAG names should always be lowercase
 ---
 
-# Voxel Engine
-
 <p align="center">
 <img src="../assets/images/Voxel/ps5_final_showcase.gif" alt="Playing our voxel engine tech-demo game on the PS5"/>
 </p>

@@ -5,8 +5,6 @@ categories: [project,gamejam,team]
 tags: [csharp,unity]     # TAG names should always be lowercase
 ---
 
-# GMTK ’21 Jam: Souls Reflection
-
 <p align="center">
 <img src="../assets/images/GameJam/GMT21/joinedthumbnail.png" width="500" alt="hello!"/>
 </p>
