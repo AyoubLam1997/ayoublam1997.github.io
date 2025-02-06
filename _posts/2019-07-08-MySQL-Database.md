@@ -6,7 +6,7 @@ tags: [mysql, csharp, php, unity]     # TAG names should always be lowercase
 ---
 
 <p align="center">
-<img src="../assets/images/MySQLProject/LoginExample.gif" alt="Logging in on my SQL server!"/>
+<img src="../assets/images/MySQLProject/LoginExample.gif" width="500" alt="Logging in on my SQL server!"/>
 </p>
 
 For a project when I was at Grafisch Lyceum Utrecht, I created a MySQL database. A user can register an account that holds the user's email, password & data depending on the game. In this case, in this space shooter, the user can upgrade their ship. The upgrade increases the ship's damage, health & speed. This game was made in Unity.
