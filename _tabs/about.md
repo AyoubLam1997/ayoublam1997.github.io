@@ -3,13 +3,13 @@
 icon: fas fa-info-circle
 order: 4
 ---
-<div align="center">
+<center>
  <H1>ABOUT ME</H1>
-</div>
+</center>
 
-<div align="center">
+<center>
  <H3>All I want to do is to create awesome games</H3>
-</div>
+</center>
 
 <center>
 <img src="../assets/images/FullPicOfMe.png" width="700" alt="Hey, that's me participating in the RedBull Strijders tournament!"/>

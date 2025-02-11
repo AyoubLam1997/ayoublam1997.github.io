@@ -5,9 +5,9 @@ categories: [project,solo,school]
 tags: [audio]     # TAG names should always be lowercase
 ---
 
-<p align="center">
+<center>
 <img src="../assets/images/Audio/NoobSaibot/noob_saibot_mk11.webp" width="500" alt="hello!"/>
-</p>
+</center>
 
 I recreated the voice of Noob Saibot from Mortal Kombat 11 with my own voice. I added a pitch shiter, reverb, chorus, ring mod, multiband compression & an equalizer. I recreated it in Adobe Audition. 
 
@@ -18,6 +18,6 @@ Below is the original Noob Saibot voice & my recreated version.
 
 Below is a screenshot of the effects that I applied to my voice to recreate the effect.
 
-<p align="center">
+<center>
 <img src="../assets/images/Audio/NoobSaibot/effects.webp" width="500" alt="hello!"/>
-</p>
+</center>

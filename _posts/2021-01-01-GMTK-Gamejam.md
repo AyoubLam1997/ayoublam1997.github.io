@@ -13,9 +13,9 @@ I joined the Game Maker ToolKit 2021 gamejam with a group of friends and created
 
 Souls Reflection is a 2D Action Puzzle game about working together with your friend to solve puzzles, battle through monsters and to find a way out! 
 
-<p align="center">
+<center>
 <img src="../assets/images/GameJam/GMT21/gmtk21-2.webp" width="500" alt="hello!"/>
-</p>
+</center>
 
 You control 2 player characters at the same time, where one is a ghost that can move through walls. You can switch which character is the ghost. Both characters also have a unique attack, where one has a melee attack & the other shoots projectiles, but be careful where you're attacking! You can hit damage your friend instead of the enemies trying to stop you!
 

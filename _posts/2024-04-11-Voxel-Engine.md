@@ -44,9 +44,9 @@ inline void Update(float dt)
 
 This also means that when the player is falling from a high platform, there is a max cap of how fast the player falls. This prevents the rigidbody constantly adding velocity without a limit. 
 
-<p align="center">
+<center>
 <img src="../assets/images/Voxel/DragShowcase.gif" alt="Playing our voxel engine tech-demo game on the PS5"/>
-</p>
+</center>
 This implementation is based on Unity's Drag implementation.
 
 <H3> Collision Handling </H3>
@@ -117,9 +117,9 @@ void World::UpdateCollisionDetection()
 
 On the gif below, you see the player box collider wireframe highlighted in green walking to various voxels, preventing the colliders from clipping from each other.
 
-<p align="center">
+<center>
 <img src="../assets/images/Voxel/CollisionTest.gif" alt="Playing our voxel engine tech-demo game on the PS5"/>
-</p>
+</center>
 
 <H3> Player Controller & Movement </H3>
 
