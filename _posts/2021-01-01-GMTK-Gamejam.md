@@ -5,9 +5,9 @@ categories: [project,gamejam,team]
 tags: [csharp,unity]     # TAG names should always be lowercase
 ---
 
-<p align="center">
+<center>
 <img src="../assets/images/GameJam/GMT21/joinedthumbnail.png" width="500" alt="hello!"/>
-</p>
+</center>
 
 I joined the Game Maker ToolKit 2021 gamejam with a group of friends and created a game within 2 days! The game we created is Souls Reflection.
 

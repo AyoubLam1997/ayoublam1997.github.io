@@ -5,9 +5,9 @@ categories: [project,solo]
 tags: [engine,cpp]     # TAG names should always be lowercase
 ---
 
-<p align="center">
+<center>
 <img src="../assets/images/Voxel/ps5_final_showcase.gif" alt="Playing our voxel engine tech-demo game on the PS5"/>
-</p>
+</center>
 
 In my second year at **Breda University of Applied Sciences** (A.K.A. **BUAS**), I worked on a team project where we had to create a [custom voxel engine](https://github.com/BredaUniversityGames/2324-Y2C-PR-Voxel). The engine should be able to run a game on both PC & the Playstation 5. Using the engine, we created a game where the player can walk around in a random-generated voxel world, removing voxels which contains resources that the player can collect. The player can also place voxels to platform on.
 

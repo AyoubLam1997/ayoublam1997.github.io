@@ -11,9 +11,9 @@ order: 4
  <H3>All I want to do is to create awesome games</H3>
 </div>
 
-<p align="center">
+<center>
 <img src="../assets/images/FullPicOfMe.png" width="700" alt="Hey, that's me participating in the RedBull Strijders tournament!"/>
-</p>
+</center>
 
 Greetings! My name is **Ayoub** & I'm a **software developer** specialised in **game development**. Currently, I'm studying at Breda Universities of Applied Sciences.
 
