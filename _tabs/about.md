@@ -25,7 +25,7 @@ I've worked on various project, from game-jams with some of my friends to solo p
 
 As of now, I'm currently searching for an internship that grants me the opportunity to grant me first-hand experience to create games for people all-around the world!
 
-If you want see my work experience, feel free to check my CV on this <a href="/assets/CV_Ayoub_Lamdaghri_ENG.docx">link</a>.
+If you want see my work experience, feel free to check my CV on this <a href="/assets/CV_Ayoub_Lamdaghri_ENG.pdf">link</a>.
 
 <div>
  <H3>Skills</H3>

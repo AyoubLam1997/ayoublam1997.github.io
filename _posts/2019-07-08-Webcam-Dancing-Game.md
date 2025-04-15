@@ -5,9 +5,9 @@ categories: [project,solo,school]
 tags: [unity,csharp]     # TAG names should always be lowercase
 ---
 
-<p align="center">
+<center>
 <img src="../assets/images/WebcamGame/dancinggif.gif" width="500" alt="hello!"/>
-</p>
+</center>
 
 For a project at GLU (Grafisch Lyceum Utrecht), I've created a dancing game where the player dances in front of a camera.
 

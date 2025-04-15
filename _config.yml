@@ -16,7 +16,7 @@ timezone: Europe/Amsterdam
 
 title: Ayoub Lamdaghri # the main title
 
-tagline: Creating awesome games # it will display as the subtitle
+tagline: Gameplay/System Developer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Aportfolio website to showcase some of my work!
@@ -42,7 +42,7 @@ social:
     - https://github.com/ayoublam1997 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/ayoub-lamdaghri-b9bbb8182/
 
 # Site Verification Settings
 webmaster_verifications:
