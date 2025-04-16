@@ -100,7 +100,7 @@ UInputBufferItem::UInputBufferItem()
 
 To update the input buffer system, you must call the BufferUpdate method in a tick function. The input byffer system loops through all the registered buttons & calls a function called InputCheck, which updates the first index of the button's buffer based if the button is being held or being released. Then, we loop through the other indexes of the button's buffer & update the data of the buffers based on the values of it's previous buffer index.
 
-```CPP
+```cpp
 void InputBuffer::BufferUpdate()
 {
     if (InputBufferItems.Num() > 0)
@@ -126,7 +126,7 @@ void InputBuffer::BufferUpdate()
 
 The input check updates the first index of the buffer based on if the button is pressed or not.
 
-```CPP
+```cpp
 void InputBufferItem::InputCheck()
 {
     if (Buffer.Num() > 0)
@@ -203,7 +203,7 @@ void InputStateItem::SetUsedTrue()
 
 With the input, we want to see if the player has just pressed the button, so we want to check if the any of the buffer hold time values is 1. If the value is 1, we first update the buffer item that it has been used. This prevents that the button is being pressed twice in short succession. In the example below, we switch states based on the input & if the buffer has already been used or not.
 
-```CPP
+```cpp
 bool ABaseFighter::InputCheck(EInputType input)
 {
 	for (int i = 0; i < ReturnInputBuffer()->InputBufferItems.Num(); i++)
