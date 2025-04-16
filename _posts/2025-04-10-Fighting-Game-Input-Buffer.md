@@ -305,4 +305,4 @@ Note: The red boxes are collision boxes for attacks, such as kicks & grabs.
 
 Personally, I'm very happy with this implemention. It does require a lot of setup to make it work, but from older iterations that I've created, for my fighting game project it works as desired & I've managed to extend it to also check for special inputs, which I may showcase in the future.
 
-I'll be explaining other systems that I've created for the fighting game, such as how I'm collision handling using my Hitbox component & how I've setup my state machine for the player character. Until then, feel free to checkout my code on my github!
+I'll be explaining other systems that I've created for the fighting game, such as how I'm collision handling using my Hitbox component & how I've setup my state machine for the player character. Until then, feel free to checkout my code on my [github!](https://github.com/AyoubLam1997/ProjectFightClub)
