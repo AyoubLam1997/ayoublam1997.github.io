@@ -21,7 +21,7 @@ One of the systems that took the most time figuring out was a input buffering sy
 
 I start with creating the input buffer class. Inside the input buffer class contains an array of input buffer items & the buffer window. On initialization, the input buffer initializes an Input Buffer Item based on the buttons that are set & used for the game.
 
-```CPP
+```cpp
 class BEATEMUP_API InputBuffer
 {
 public:
@@ -42,7 +42,7 @@ public:
 
 An input buffer item is a class that functionally works as a button for the system. It contains an array of input state items.
 
-```CPP
+```cpp
 class BEATEMUP_API InputBufferItem
 {
 public:
@@ -65,7 +65,7 @@ public:
 
 An input state item is an object that checks if it has been used within the input buffer. It contains if the current buffer is still being pressed or is released, how long it has been pressed or if the state item has been used. The IsUsed it to check wether the buffer has already been used for something, such as transitioning states, preventing it for being used multiple times.
 
-```CPP
+```cpp
 class BEATEMUP_API InputStateItem
 {
 public:
